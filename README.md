@@ -131,6 +131,3 @@ These clusters help understand **restaurant positioning and customer behavior**.
 
 ---
 
-## Author
-**Jeevan Kolluri**  
-_Data Science & Machine Learning Enthusiast_
